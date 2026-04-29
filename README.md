@@ -1,1 +1,10 @@
-Create a program that uses interest rate, number of years, loan amount, and extra payments to output required monthly payment, total interest needed to be paid, interest saved if any, and total months needed to pay off loan.
+# loan-interest-rates
+
+## Description
+
+Create a program that uses interest rate, number of years, loan amount, and extra payments to output:
+- Monthly payment
+- Total interest paid
+- Interest saved (if extra payments are used)
+- Total months to pay off the loan
+
