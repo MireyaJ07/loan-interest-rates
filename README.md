@@ -1,0 +1,1 @@
+Create a program that uses interest rate, number of years, loan amount, and extra payments to output required monthly payment, total interest needed to be paid, interest saved if any, and total months needed to pay off loan.
